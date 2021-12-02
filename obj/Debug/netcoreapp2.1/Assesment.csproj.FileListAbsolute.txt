@@ -1,0 +1,11 @@
+E:\Projects\Assesment\bin\Debug\netcoreapp2.1\Assesment.deps.json
+E:\Projects\Assesment\bin\Debug\netcoreapp2.1\Assesment.runtimeconfig.json
+E:\Projects\Assesment\bin\Debug\netcoreapp2.1\Assesment.runtimeconfig.dev.json
+E:\Projects\Assesment\bin\Debug\netcoreapp2.1\Assesment.dll
+E:\Projects\Assesment\bin\Debug\netcoreapp2.1\Assesment.pdb
+E:\Projects\Assesment\obj\Debug\netcoreapp2.1\Assesment.csprojAssemblyReference.cache
+E:\Projects\Assesment\obj\Debug\netcoreapp2.1\Assesment.csproj.CoreCompileInputs.cache
+E:\Projects\Assesment\obj\Debug\netcoreapp2.1\Assesment.AssemblyInfoInputs.cache
+E:\Projects\Assesment\obj\Debug\netcoreapp2.1\Assesment.AssemblyInfo.cs
+E:\Projects\Assesment\obj\Debug\netcoreapp2.1\Assesment.dll
+E:\Projects\Assesment\obj\Debug\netcoreapp2.1\Assesment.pdb
